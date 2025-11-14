@@ -86,4 +86,4 @@ JOIN Department d ON e.dept_id = d.dept_id;
 
 
 
-> _"Practice makes perfect — keep querying until it's second nature!"_ 💪
+
